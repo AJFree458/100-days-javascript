@@ -12,7 +12,7 @@ This repo is for the 100 Days of Javascript course that I am following on Udemy.
 
 | Project | Repo     | Description                |
 | :-------- | :------- | :------------------------- |
-| Counter App | []() | Description of project |
+| Counter App | [Counter App File](https://github.com/AJFree458/100-days-javascript/tree/main/Counter-app) | A basic counter app with event management |
 | Random Hex Color Generator | []() | Description of project |
 | Random Number Generator | []() | Description of project |
 | Modal/Popup | []() | Description of project |
